@@ -1,1 +1,2 @@
 nume_fisier_mare.ext filter=lfs diff=lfs merge=lfs -text
+site filter=lfs diff=lfs merge=lfs -text
